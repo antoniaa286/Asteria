@@ -10,3 +10,5 @@ Medii de dezvoltare folosite:
 
 Barbu Antonia a contribuit la analiza pieței deja existente cu soluții împotriva violenței domestice, la realizarea codului aplicației pentru secțiunea destinată refugiaților din Ucraina, secțiunea de chat, implementarea accelerometrului și la obținerea resurselor necesare victimelor pentru a fi adăugate în aplicație.
 Mihăescu Cosmina a colectat informații de la potențiali utilizatori, printr-un formular de feedback, a găsit statistici cu publicul țintă al aplicației și a contribuit la realizarea codului pentru secțiunea cu victime din România împreună cu resursele respective, secțiunea voluntarilor ce vor să ofere ajutor, secțiunea "Jurnalul Meu".
+
+Ghid de utilizare: https://youtu.be/dcYQuWPfE4g
